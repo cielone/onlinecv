@@ -59,10 +59,34 @@ html,body{
 }
 .rightarea{
     background-color: #fff;
-    margin-left: -15px;
+
 }
 .aboutmetitle{
     font-weight: bold;
     margin-top: 20px;
     margin-left: 20px;
+}
+.name{
+    font-weight:bold;
+    font-size: 28px;
+    padding-left: 20px;
+}
+.nametitle{
+    padding-left: 20px;
+    font-size: 22px;
+    color: #777777;
+}
+.abouttext{
+    margin-top: 20px;
+    color: #999999;
+    font-size:14px;
+}
+.bordered{
+    border:1px solid #ebebeb;
+    text-align: center;
+}
+.boldtext{
+    font-weight:bold;
+    color: #333;
+    width: 40%;
 }
